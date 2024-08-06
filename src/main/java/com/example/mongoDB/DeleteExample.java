@@ -8,6 +8,7 @@ package com.example.mongoDB;
 
 	public class DeleteExample {
 	    public static void main(String[] args) {
+			//added my first comments to the program
 	        // Connect to MongoDB server
 	        MongoClient mongoClient = MongoClients.create("mongodb://localhost:27017");
 
