@@ -14,6 +14,7 @@ import org.bson.Document;
 
 public class MongoDBExample {
     public static void main(String[] args) {
+       //we are in mongodb example program
         // Connect to MongoDB server
         MongoClient mongoClient = MongoClients.create("mongodb://localhost:27017");
 
