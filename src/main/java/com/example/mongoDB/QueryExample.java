@@ -9,6 +9,7 @@ import java.util.Iterator;
 
 public class QueryExample {
     public static void main(String[] args) {
+        //we are in Query Eaxaple program
         // Connect to MongoDB server
         MongoClient mongoClient = MongoClients.create("mongodb://localhost:27017");
 
